@@ -1,2 +1,2 @@
-# bartersystem-stage-11
-solution for c86
+# barter-app-stage-10
+project 86
